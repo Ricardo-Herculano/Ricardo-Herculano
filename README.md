@@ -1,4 +1,4 @@
-## <h1>Me chamo Ricardo Herculano<h1> <br><h1>Desenvolvedor Web<h1>
+## Me chamo Ricardo Herculano<h1> <br>Desenvolvedor Web<h1>
 Estou em busca de oportunidade de trabalho como desenvolvedor Web, tenho construido uma base sólida nesta carreira de desenvolvimento, estou em migração de carreira e quero fazer parte deste mundo de linhas de código! Quero ser muito mais que um "Hello World". Abaixo as tecnologias que estou em pleno aprendizado!!!
 </div>
 <div style="display: inline_block"><br>
