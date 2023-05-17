@@ -1,4 +1,4 @@
-## Me chamo Ricardo Herculano, Desenvolvedor Web Frontend!
+## Me chamo Ricardo Herculano, Desenvolvedor Web
 Estou em busca de oportunidade de trabalho como desenvolvedor Web, tenho construido uma base sólida nesta carreira de desenvolvimento, estou em migração de carreira e quero fazer parte deste mundo de linhas de código! Quero ser muito mais que um "Hello World". Abaixo as tecnologias que estou em pleno aprendizado!!!
 </div>
 <div style="display: inline_block"><br>
@@ -6,8 +6,6 @@ Estou em busca de oportunidade de trabalho como desenvolvedor Web, tenho constru
   <img align="center" alt="CSS" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bot" height="70" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="nodejs" height="70" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  
 </div>
   
   ##
