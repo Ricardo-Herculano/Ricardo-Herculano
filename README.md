@@ -1,4 +1,4 @@
-## Me chamo Ricardo Herculano <br>Desenvolvedor Web
+## Me chamo Ricardo Herculano <br>Desenvolvedor Web Backend
 Estou em busca de oportunidade de trabalho como Desenvolvedor Backend, o meu grande desafio é depois de ter minha formação profissional em outras areas é ter que dar 180º graus e começar uma nova jornada, estou em migração de carreira e quero fazer parte deste mundo de linhas de código! Quero ser muito mais que um "Hello World". Abaixo as tecnologias que estou em pleno aprendizado!!!
 </div>
 <div style="display: inline_block"><br>
